@@ -1,5 +1,6 @@
 # 💫 About Me:
-An android reminders app, with Springboot back-end pinging reminder deadlines to user.<br>looking to collaborate on ML projects.<br>looking for those who understand the math behind a machine learning model and proficient in integrating it.<br>
+I'm currently a Computer Engineering student at the University of British Columbia, pausing my educational journey and embarking on my CO-OP one. I'm expanding my knowledge in areas such as machine learning, full-stack development, embedded systems, and networking. <br>
+I am currently working on an android reminders app, with Springboot back-end pinging reminder deadlines to user.<br>looking to collaborate on ML projects.<br>looking for those who understand the math behind a machine learning model and proficient in integrating it.<br>
 
 
 ## 🌐 Socials:
